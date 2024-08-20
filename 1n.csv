@@ -1,0 +1,56 @@
+trivial_name,sequence,type,mol_weight,name,doi
+BP100,KKLFKKILKYL,A,1421.88,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+2BP100,KKLFKKILKYLKKLFKKILKYL,C,2825.74,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Rev(34-50),TRQARRNRRRRWRERQR,C,2437.77,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+R9,RRRRRRRRR,C,1423.7,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+D-R9,rrrrrrrr (D form),C,1423.7,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+R12,RRRRRRRRRR,C,1892.27,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+(KH)9,KHKHKHKHKHKHKHKH,C,2405.85,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+K9,KKKKKKKKK,C,1171.58,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+K18,KKKKKKKKKKKKKKKK,C,2325.15,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Pen2W2F,RQIKIFFQNRRMKFKK,C,2168.68,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+DPV3,RKKRRRESRKKRRRES,C,2212.6,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+6-Oct,GRKRKKRT,C,1029.26,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+R9-TAT,GRRRRRRRRRPPQ,C,1803.12,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Tat(49-57),RKKRRQRRR,C,1339.62,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Retro-Tat(57-49),RRQRKRKKR,C,1339.62,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Sc18,GLRKRLKFRNKIKEK,A,2070.56,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+KLA10,KALKLLAKWLAKALL,A,1950.53,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+IX,QLALQLALQALAQLQLA,H,1877.26,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+XI,LKTALATLKTLTLTTL,H,1901.36,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+No. 14-12,RAWRMWYPTTRRYG,A,1987.27,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+pVEC,LLIILRRRIRKQAHAHSK,A,2209.72,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+PenArg,RQIRIWFQNRRMRWRR,A,2358.81,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+M918,MVTVLFRRLRIRACGPPRVRV,A,2652.31,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Penetratin,RQIKIWFQNRRMKWKK,A,2246.75,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+PolyP 3 (SAP),VRLPPPVRLPPPVRLPPP,H,1997.5,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+dhvar5,LLLFLKKRKKRKY,A,1847.41,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+HPV33L2-445/467,SYFILRRRRKRFYYFTDVRVAA,A,2965.5,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Buforin II (5-21),RAGLQFPVGRVHRLLRK,A,2003.43,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Scrambled pVEC,IAARIKLRSRQHIKLRHL,A,2209.72,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+HPV33L2-DD447,SYDDLRRRKRFYYFTDVRVAA,H,2935.34,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+LAH4,KKALLALALHLLALHLALHLALALKKA,A,2779.5,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+ppTG1,GLFKALLKLKLSLWKLLLKA,A,2297.0,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Transportan (TP),GWTLNSAGYLLGKINKLAALAKKIL,H,2841.48,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+2x ppTG1,GLFKALLKLKLSLWKLLLKAGLFKA,A,4575.98,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+pAntpHD(Pro50),RQIKIWFPNRRMKWKK,A,2215.74,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+pAntp(44-58),QIKIWFQNRRMKWKK,A,2090.57,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Crot(27-39),KMDCWRWKCWKCW,A,1771.21,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Crot(27-39) derivative (1),MDCWRWKCWKCW,A,1643.04,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Crot(27-39) derivative (2),KCGCRWRWKCWKCWK,A,1742.17,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+CyLoP-1,CRWRWKCCKK,A,1396.76,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Inv3,TKRRITPKDVIDVRSVTTEINT,H,2542.92,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Inv5,AEKVDPVKLNLTLSAAAEALTGLGDK,H,2625.01,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Inv3.5,TKRRITPKDVIDVRSVTTKINT,H,2541.98,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Inv3.10,HHHHHHTKRRITPKDVIDVRSVTTEINT,H,3365.77,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+ARF(1-22),MVRRFLVTLRIRRACGPPRVRV,A,2652.31,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Cyt C 77-101,GTKMIFVGIKKKEERADLIAYLKKA,A,2851.49,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+hLF peptide,KCFQWQRNMRKVRGPPVSCIKR,A,2718.3,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+Glu-Oct-6,EEEAAGRKRKKRT,A,1558.76,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+M511,FLGKKFKKYFLQLLK,A,1901.41,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+G53-4,FLIFIRVICIVIAKLKANLMCKT,H,2651.46,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+M591,YIVLRRRRKRVNTKRS,A,2101.54,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+E162,KTVLLRKLLKLLVRKI,A,1934.57,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+E165,LLKKRKVVRLIKFLLK,A,1995.66,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+M867,KKICTRKPRFMSAWAQ,A,1951.38,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
+MG2d,GIGKFLHSAKKWGKAFVGQIMNC,H,2521.04,Screening of a Cell-Penetrating Peptide Library in Escherichia coli: Relationship between Cell Penetration Efficiency and Cytotoxicity,10.1021/acsomega.8b02348
